@@ -92,4 +92,9 @@ public class LeetCodeTest {
     public void test0() {
         System.out.println("test0");
     }
+
+    @Test
+    public void test1() {
+        System.out.println("test1");
+    }
 }
