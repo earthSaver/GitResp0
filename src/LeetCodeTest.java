@@ -89,7 +89,7 @@ public class LeetCodeTest {
     }
 
     @Test
-    public void test() {
-        System.out.println("test");
+    public void test0() {
+        System.out.println("test0");
     }
 }
